@@ -1,2 +1,2 @@
 # hello-world
-A place to write down someof my ideas
+A place to write down some of my ideas
